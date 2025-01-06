@@ -1,6 +1,3 @@
-<a target="_blank" href="https://lightning.ai/new?repo_url=https%3A%2F%2Fgithub.com%2Fvic2023ai%2Fstable-diffusion-webui-forge">
-  <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open in Studio" />
-</a>
 
 # Stable Diffusion WebUI Forge
 
